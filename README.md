@@ -1,5 +1,5 @@
 # Bank-project
-By MaryamMortazaviSefat & Mohamad Malihi Sheikhzade 
+By MaryamMortazaviSefat & Mohamad Mahdi Sheikhzade 
 
 This project is about the routine works in the bank.
 The bank name is light future and the name of this brach is rajai university, because this project is programed by two students of rajai university in Iran , Tehran (srttu).
